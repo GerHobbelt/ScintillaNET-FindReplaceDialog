@@ -5,7 +5,7 @@ using System;
 #endregion Using Directives
 
 
-namespace ScintillaNET_FindReplaceDialog
+namespace ScintillaNET.FindReplaceDialog
 {
     /// <summary>
     ///     Controls find behavior for non-regular expression searches

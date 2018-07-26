@@ -1,4 +1,4 @@
-﻿namespace ScintillaNET_FindReplaceDialog
+﻿namespace ScintillaNET.FindReplaceDialog
 {
     partial class GoToDialog
     {

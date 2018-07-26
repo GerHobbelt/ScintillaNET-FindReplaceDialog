@@ -7,7 +7,7 @@ using System.Windows.Forms;
 
 #endregion Using Directives
 
-namespace ScintillaNET_FindReplaceDialog
+namespace ScintillaNET.FindReplaceDialog
 {
     public partial class GoToDialog : Form
     {
